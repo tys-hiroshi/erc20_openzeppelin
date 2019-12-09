@@ -1,1 +1,6 @@
-# erc20_openzeppelin
+
+
+Compile:        truffle compile
+Migrate:        truffle migrate
+Test contracts: truffle test
+
