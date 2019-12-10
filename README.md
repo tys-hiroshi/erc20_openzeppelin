@@ -54,3 +54,11 @@ Compile:        truffle compile
 Migrate:        truffle migrate
 Test contracts: truffle test
 ```
+
+
+## install vue.js
+
+```
+npm install -g @vue/cli
+npm install web3
+```
